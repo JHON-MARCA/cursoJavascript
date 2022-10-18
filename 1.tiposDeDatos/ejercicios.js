@@ -1,0 +1,2 @@
+// averiguar el methodo de javascript
+// que me permite saber que tipo de tengo
