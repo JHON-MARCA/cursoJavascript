@@ -32,4 +32,4 @@ function saluda(nombre,apellido){
     }
     return total
 }
- console.log(calculadora(11,11,"suma"))
+ console.log(calculadora(11,1,"resta"))
